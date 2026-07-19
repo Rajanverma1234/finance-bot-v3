@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+python-dotenv
+tavily-python
+passlib[bcrypt]
+python-jose[cryptography]
+sqlalchemy
+python-multipart
+sentence-transformers
+PyPDF2
+pandas
+openpyxl
