@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import axios from 'axios';
 import ReactMarkdown from 'react-markdown';
 
-const API = 'http://localhost:8000';
+const API = 'https://finance-bot-backend-qmvy.onrender.com';
 
 const C = {
   navy: '#0a1628', navy2: '#0d1f3c', card: '#111f38',
